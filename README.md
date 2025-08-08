@@ -10,8 +10,8 @@
 
 ✅ Since transitioning out of the US Air Force, I am looking to bring my skills to a dynamic team that allows me to continuously learn and grow as a professional.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory Home Lab</b>
+  - https://github.com/tyleryarrish/ActiveDirectoryLab
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
