@@ -10,11 +10,11 @@
 
 ✅ Since transitioning out of the US Air Force, I am looking to bring my skills to a dynamic team that allows me to continuously learn and grow as a professional.
 
-- <b>Active Directory Home Lab</b>
+- <b>Active Directory Envornment</b>
   - https://github.com/tyleryarrish/ActiveDirectoryLab
 - <b>Home SOC Lab | Microsoft Azure</b>
   - https://github.com/tyleryarrish/HomeSOCLab-Microsoft-Azure
-- <b>Vulnerability Management Lab | Nessus</b>
+- <b>Vulnerability Management | Nessus</b>
   - https://github.com/tyleryarrish/Vulnerability-Management-Lab-with-Nessus
  
 <h2>📄Certifications:</h2>
