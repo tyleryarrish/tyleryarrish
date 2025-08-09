@@ -14,6 +14,8 @@
   - https://github.com/tyleryarrish/ActiveDirectoryLab
 - <b>Home SOC Lab | Microsoft Azure</b>
   - https://github.com/tyleryarrish/HomeSOCLab-Microsoft-Azure
+- <b>Vulnerability Management Lab | Nessus</b>
+  - https://github.com/tyleryarrish/Vulnerability-Management-Lab-with-Nessus
  
 <h2>📄Certifications:</h2>
 - CompTIA Security+, CompTIA A+, TryHackMe SOC Level 1, Google Cybersecurity Professional, CompTIA Network+(In Progress) 
