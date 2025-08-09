@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-✅ Western Governors University student pursuing a B.S. in Cybersecurity and Information Assurance, with a focus on cyber defense and security operations. Offering hands-on experience in threat analysis, incident response, and access control through military service and academic projects. Familiar with tools like Kali Linux, Wireshark, Nmap, Microsoft Sentinel, and Azure Entra ID.
+✅ Western Governors University student pursuing a B.S. in Cybersecurity and Information Assurance, with a focus on cyber defense and security operations. Offering hands-on experience in threat analysis, incident response, and access control through military service and academic projects. Familiar with tools like Python, Wireshark, Active Directory, and Microsoft Azure.
 
 ✅ DoD 8570 IAT Level I & IAT Level II compliant, with an understanding of the NIST cybersecurity framework and real-world application of SIEM tools, intrusion detection, and log analysis. Known for being highly motivated, technically capable, and dedicated to mission success. I'm eager to contribute to a collaborative cybersecurity team while continuing to grow professionally. I have an Active Secret Clearance with the ability to obtain a TS/SCI.
 
