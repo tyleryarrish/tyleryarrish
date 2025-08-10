@@ -6,8 +6,6 @@
 
 ✅ DoD 8570 IAT Level I & IAT Level II compliant, with an understanding of the NIST cybersecurity framework and real-world application of SIEM tools, intrusion detection, and log analysis. Known for being highly motivated, technically capable, and dedicated to mission success. I'm eager to contribute to a collaborative cybersecurity team while continuing to grow professionally. I have an Active Secret Clearance with the ability to obtain a TS/SCI.
 
-✅ My Active Certifications Include: CompTIA Security+, CompTIA A+, TryHackMe SOC Level 1, Google Cybersecurity Professional, and CompTIA Network+ (In-Progress)
-
 ✅ Since transitioning out of the US Air Force, I am looking to bring my skills to a dynamic team that allows me to continuously learn and grow as a professional.
 
 - <b>Active Directory Environment</b>
