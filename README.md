@@ -16,6 +16,8 @@
   - https://github.com/tyleryarrish/HomeSOCLab-Microsoft-Azure
 - <b>Vulnerability Management | Nessus</b>
   - https://github.com/tyleryarrish/Vulnerability-Management-Lab-with-Nessus
+- <b>Windows Defender Firewall Configuration</b>
+  - https://github.com/tyleryarrish/Windows-Firewall-Configuration
  
 <h2>📄Certifications:</h2>
 - CompTIA Security+, CompTIA A+, TryHackMe SOC Level 1, Google Cybersecurity Professional, CompTIA Network+(In Progress) 
