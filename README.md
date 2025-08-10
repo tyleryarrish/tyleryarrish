@@ -21,7 +21,7 @@
   - https://github.com/tyleryarrish/Windows-Firewall-Configuration
  
 <h2>📄Certifications:</h2>
-- CompTIA Security+, CompTIA A+, TryHackMe SOC Level 1, Google Cybersecurity Professional, CompTIA Network+ (In Progress) 
+CompTIA Security+ | CompTIA A+ | TryHackMe SOC Level 1 | Google Cybersecurity Professional | CompTIA Network+ (In Progress) 
 
 <h2> 🤳 Connect with me:</h2>
 
