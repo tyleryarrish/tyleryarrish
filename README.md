@@ -19,6 +19,9 @@
 
 - <b>Windows Defender Firewall Configuration</b>
   - https://github.com/tyleryarrish/Windows-Firewall-Configuration
+
+- <b>Wireshark Packet Analysis</b>
+  - https://github.com/tyleryarrish/Wireshark-Packet-Analysis
  
 <h2>📄Certifications:</h2>
 CompTIA Security+ | CompTIA A+ | TryHackMe SOC Level 1 | Google Cybersecurity Professional | CompTIA Network+ (In Progress) 
