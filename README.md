@@ -22,6 +22,9 @@
 
 - <b>Wireshark Packet Analysis</b>
   - https://github.com/tyleryarrish/Wireshark-Packet-Analysis
+
+- <b>Splunk: Home SOC Lab<b>
+  - https://github.com/tyleryarrish/Splunk-Home-SOC-Lab
  
 <h2>📄Certifications:</h2>
 CompTIA Security+ | CompTIA A+ | TryHackMe SOC Level 1 | Google Cybersecurity Professional | CompTIA Network+ (In Progress) 
